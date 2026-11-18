@@ -352,3 +352,7 @@ nav ul li a {
         font-size: 16px;
     }
 }
+/* LinkedIn Link */
+.contact-card:nth-child(3) a {
+    font-size: 14px;
+}
